@@ -9,6 +9,7 @@ import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 // User type to store in localStorage
+
 interface User {
 
     email: string;
