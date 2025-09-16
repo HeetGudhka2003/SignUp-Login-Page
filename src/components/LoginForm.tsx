@@ -118,8 +118,7 @@ const LoginForm: React.FC = () => {
                 }
 
                 setTimeout(() => navigate("/"), 1500);
-
-            } 
+            }
             
             else {
 
